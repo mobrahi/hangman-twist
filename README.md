@@ -1,0 +1,1 @@
+Hangman game with a twist — instead of just guessing letters, the player has to guess the word by choosing from multiple categories, and the hangman drawing is replaced with a "health bar" that depletes with wrong guesses.
