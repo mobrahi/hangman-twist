@@ -6,8 +6,6 @@
 
 > A unique twist on the classic Hangman game with scoring, hints, health bars, and multiple categories!
 
-![Game Demo](https://via.placeholder.com/800x400?text=Game+Screenshot+Coming+Soon)
-
 ## ✨ Features
 
 | Feature | Description |
